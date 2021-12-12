@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub (Modyfied by Frenklin Dashi)
+# :wave: The Basics of GitHub (Modified by Frenklin Dashi)
 
 ## 🤓 Course overview and learning outcomes 
 
